@@ -1,0 +1,9 @@
+E:\Visual Studio 12\Project\Lab13Simulator\Lab13Simulator\bin\Debug\Lab13Simulator.exe.config
+E:\Visual Studio 12\Project\Lab13Simulator\Lab13Simulator\bin\Debug\Lab13Simulator.exe
+E:\Visual Studio 12\Project\Lab13Simulator\Lab13Simulator\bin\Debug\Lab13Simulator.pdb
+E:\Visual Studio 12\Project\Lab13Simulator\Lab13Simulator\obj\Debug\Lab13Simulator.csprojResolveAssemblyReference.cache
+E:\Visual Studio 12\Project\Lab13Simulator\Lab13Simulator\obj\Debug\Lab13Simulator.Form1.resources
+E:\Visual Studio 12\Project\Lab13Simulator\Lab13Simulator\obj\Debug\Lab13Simulator.Properties.Resources.resources
+E:\Visual Studio 12\Project\Lab13Simulator\Lab13Simulator\obj\Debug\Lab13Simulator.csproj.GenerateResource.Cache
+E:\Visual Studio 12\Project\Lab13Simulator\Lab13Simulator\obj\Debug\Lab13Simulator.exe
+E:\Visual Studio 12\Project\Lab13Simulator\Lab13Simulator\obj\Debug\Lab13Simulator.pdb
